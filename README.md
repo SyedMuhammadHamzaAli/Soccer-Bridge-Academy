@@ -5,7 +5,4 @@ A web Application for a soccer Academy with a Paypal and debitcard payment gatew
 # 🏋️React Responsive Gym Website With Reactjs 
 
 ## 💪 Preveiw Version
-![React Responsive Gym Website  , mahdi nazari](https://github.com/mhdi-nzari/fightClub-gym-portfolio/blob/main/Poster.png?raw=true)
-
-
->>>>>>> 5a0620d (Add new project)
+![Visit Website  , ](https://soccerbridgeacademy.com/)
